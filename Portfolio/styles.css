@@ -1,0 +1,53 @@
+body {
+	font-size:	12px;
+	text-align: justify-all;
+	margin-left: 40px;
+	margin-right: 40px;
+	padding: 40px;
+}
+
+h1 {
+	font-family: 'Playfair Display', serif;
+	color: black;
+	font-size: 4rem;
+	margin-top: 180px;
+	margin-bottom: 10px;
+}
+
+a:link {
+	color: black;
+    text-decoration: none;
+}
+
+a:visited {
+	color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+    background-color: black; 
+}
+
+a:active {
+    text-decoration: none;
+    color: grey;
+    background-color: black; 
+}
+
+p {
+	margin-top: 0px;
+	font-family: 'Playfair Display', serif;
+	font-weight: normal;
+}
+
+div {
+	margin-top: 100px;
+	margin-left: -20px;
+	color: grey;
+}
+
+h2 {
+	font-size: 
+}
